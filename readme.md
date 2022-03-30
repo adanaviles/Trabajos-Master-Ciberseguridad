@@ -6,3 +6,7 @@ Espero que pueda servir de ejemplo a personas que estén cursando este máster o
 Estos ejercicios **no** son guías. Han sido mis soluciones a los problemas propuestos, que pueden haber cambiado. Tanto las calificaciones como las notas de los profesores, me las podéis preguntar por privado. 
 ## ¿Como lo ejecuto en latex? :file_folder:
 Simplemente copia el código entero junto a las imágenes y recompila. Si no tienes ningún editor de latex en tu ordenador, puedes usar [overleaf](https://es.overleaf.com/)
+## Contacto :file_folder:
+Si se necesita cualquier cosa, dejo por aquí mi mail:
+
+adan.aviles.cahill@gmail.com
