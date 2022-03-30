@@ -1,1 +1,1 @@
-Archivos .rar con el codigo latex y las imagenes utilizadas.
+Carpetas con el codigo .tex y las imágenes utilizadas.
